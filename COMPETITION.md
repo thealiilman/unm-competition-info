@@ -27,16 +27,25 @@ The content of a page should be structured neatly and be easy to ead.
 
 We suggest reading [_Design Principles for Developers: Processes and CSS Tips for Better Web Design_](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/) for design tips.
 
+---
+
 ### Functionality
-As a user of the application, I should be able to do the following.
+As a user of the application, I should be able to CRUD / do the following.
 
 1. Submit data that is saved into the database
 2. View data that is retrieved from the database
 3. Update existing data
 4. Delete data
 
+---
+
 ### _Impress Me_ (???)
-This can be anything you feel like adding into the application.
+This can be something that goes beyond CRUD. To name a few, these are a few ideas.
+
+- Geolocation to detect user's location and use the user's location to filter data
+- Drag an item and drop it
+
+---
 
 ### Responsiveness
 Responsiveness is how the design of an application responds to changes in environment. These changes can be screen width and screen height, to name a few. Responsiveness is closely-related to accessibility.
