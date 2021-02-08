@@ -7,10 +7,10 @@ For setup, we will go through 5 things.
 4. How to setup the back-end
 5. How to setup the front-end
 
-## How to create a GitHub account
+## 1. How to create a GitHub account
 This one is straightforward. Visit [_Join GitHub_](https://github.com/join), enter details into the form and submit.
 
-## How to use this repository as a template
+## 2. How to use this repository as a template
 <details>
 To use this repository as a template, these are the steps.
 
@@ -30,7 +30,7 @@ Clicking the _Invite a collaborator_ button will open a modal where you can ente
 
 </details>
 
-## How to setup development environment
+## 3. How to setup development environment
 We have two categories here. macOS and Windows. Please choose the appropriate category based on your operating system.
 
 ### macOS
