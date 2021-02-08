@@ -23,7 +23,7 @@ We suggest reading the following articles to learn more about accessibility.
 ### Design
 There's more to design than crafting beautiful shapes.
 
-The content of a page should be structured neatly and be easy to ead.
+The content of a page should be structured neatly and be easy to read.
 
 We suggest reading [_Design Principles for Developers: Processes and CSS Tips for Better Web Design_](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/) for design tips.
 
