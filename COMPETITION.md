@@ -39,7 +39,7 @@ As a user of the application, I should be able to CRUD / do the following.
 
 ---
 
-### _Impress Me_ (???)
+### _Impress Me_
 This can be something that goes beyond CRUD. To name a few, these are a few ideas.
 
 - Geolocation to detect user's location and use the user's location to filter data
