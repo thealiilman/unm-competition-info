@@ -75,7 +75,14 @@ If you see something like this printed:
 aliilman$ brew
 bash: command not found: brew
 ```
-This means you need to install Homebrew. You can do this by running this command in your terminal.
+This means you need to install Homebrew.
+
+Before we can install Homebrew, we first need to install Xcode command line tools. These are required in order to run certain programs that come with Homebrew.
+```
+xcode-select --install
+```
+
+Then, to install Homebrew:
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
