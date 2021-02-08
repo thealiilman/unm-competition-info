@@ -5,4 +5,3 @@ The following documents consist info about the competition, how to setup a proje
 
 - [Competition details](https://github.com/thealiilman/app-for-unm-competition/blob/main/COMPETITION.md)
 - [How to setup a project based on this template](https://github.com/thealiilman/app-for-unm-competition/blob/main/SETUP.md)
-- [How to deploy the project](https://github.com/thealiilman/app-for-unm-competition/blob/main/DEPLOYMENT.md)
