@@ -1,12 +1,14 @@
 # Competition
-Great! You are looking to enter the competition! This is where you can find the competition's details, way of submission and prize!
+Welcome to the Suria Labs Web Development Competition!
+
+All the competitions details, specifications, and prizes are below.
 
 ## Prize
-The prize money is RM500.
+Suria Labs is offering the competition winner (or winning team) RM500.
 
 ## Specifications
 
-### Accessibility
+### Accessibility (5 points)
 What is accessibility?
 
 It's the practice of making our applications usable to as many people as possible.
@@ -20,7 +22,7 @@ We suggest reading the following articles to learn more about accessibility.
 
 ---
 
-### Design
+### Design (5 points)
 There's more to design than crafting beautiful shapes.
 
 The content of a page should be structured neatly and be easy to read.
@@ -29,7 +31,18 @@ We suggest reading [_Design Principles for Developers: Processes and CSS Tips fo
 
 ---
 
-### Functionality
+### Responsiveness (5 points)
+Responsiveness is how the design of an application responds to changes in environment. These changes can be screen width and screen height, to name a few. Responsiveness is closely-related to accessibility.
+
+Nowadays, there tend to be applications that are usable on desktops, laptops, tablets and mobile phones. This is made possible thanks to responsive design.
+
+We suggest reading the following articles for tips and tricks on building responsive applications.
+- [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
+
+---
+
+### Functionality (10 points)
 As a user of the application, I should be able to CRUD / do the following.
 
 1. Submit data that is saved into the database
@@ -39,23 +52,18 @@ As a user of the application, I should be able to CRUD / do the following.
 
 ---
 
-### _Impress Me_
-This can be something that goes beyond CRUD. To name a few, these are a few ideas.
+### Impress Me (5 points)
+This can be anything really, and solely up to the judges discretion. Here are some ideas that may impress us.
 
 - Geolocation to detect user's location and use the user's location to filter data
-- Drag an item and drop it at a _box_ that destroys it
+- Drag an item and drop it at a box that destroys it
 - User can sign up, log in, log out
+- A stunning design
+- Any other added (but useful) functionality
 
 ---
 
-### Responsiveness
-Responsiveness is how the design of an application responds to changes in environment. These changes can be screen width and screen height, to name a few. Responsiveness is closely-related to accessibility.
-
-Nowadays, there tend to be applications that are usable on desktops, laptops, tablets and mobile phones. This is made possible thanks to responsive design.
-
-We suggest reading the following articles for tips and tricks on building responsive applications.e
-- [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
-- [The Beginner’s Guide to Responsive Web Design (Code Samples & Layout Examples)](https://kinsta.com/blog/responsive-web-design/)
+Therefore each submission will receive a score out of 30 points.
 
 ## How to Submit Your Entry
 Please send an email to Ali (ali.ilman@surialabs.com) or Wahab (abdul.wahab@surialabs.com)
