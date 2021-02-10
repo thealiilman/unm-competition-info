@@ -4,7 +4,11 @@ Welcome to the Suria Labs Web Development Competition!
 All the competitions details, specifications, and prizes are below.
 
 ## Prize
-Suria Labs is offering the competition winner (or winning team) RM500.
+Suria Labs is offering the following prizes:
+
+- 1st place gets RM300
+- 2nd place gets RM150
+- 3rd place gets RM50
 
 ## Specifications
 
