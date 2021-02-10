@@ -44,6 +44,7 @@ This can be something that goes beyond CRUD. To name a few, these are a few idea
 
 - Geolocation to detect user's location and use the user's location to filter data
 - Drag an item and drop it at a _box_ that destroys it
+- User can sign up and login
 
 ---
 
