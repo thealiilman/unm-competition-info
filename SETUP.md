@@ -19,4 +19,5 @@ We have set-up a template for you to use so that you can get going with the nece
 And there we go! Now you can start building an application.
 
 Should you wish to build together with other people, then share a _live session_ for your sandbox.
+
 ![https://i.imgur.com/s7a8FkZ.png](https://i.imgur.com/s7a8FkZ.png)
