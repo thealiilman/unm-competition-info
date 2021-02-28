@@ -3,12 +3,23 @@ Welcome to the Suria Labs Web Development Competition!
 
 All the competitions details, specifications, and prizes are below.
 
+- [Prize](https://github.com/thealiilman/unm-competition-info/blob/main/COMPETITION.md#prize)
+- [Submission](https://github.com/thealiilman/unm-competition-info/blob/main/COMPETITION.md#submission)
+- [Specifications](https://github.com/thealiilman/unm-competition-info/blob/main/COMPETITION.md#specifications)
+
 ## Prize
 Suria Labs is offering the following prizes:
 
 - 1st place gets RM300
 - 2nd place gets RM150
 - 3rd place gets RM50
+
+## Submission
+To submit your entry, please send an email to Ali (ali.ilman@surialabs.com) or Wahab (abdul.wahab@surialabs.com). Afterwards, register for the competition by visiting this form:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeI6dVuaoZMwP9g14jx_vcGn0jsCIYC8-BuO2tsPOenS1y4Ig/formResponse
+
+The deadline for the submission is 12pm on the 29th of March 2021.
 
 ## Specifications
 
@@ -68,6 +79,3 @@ This can be anything really, and solely up to the judges discretion. Here are so
 ---
 
 Therefore each submission will receive a score out of 30 points.
-
-## How to Submit Your Entry
-Please send an email to Ali (ali.ilman@surialabs.com) or Wahab (abdul.wahab@surialabs.com)
