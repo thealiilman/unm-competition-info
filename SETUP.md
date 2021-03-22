@@ -3,6 +3,7 @@ We'll be using CodeSandbox to build an application. CodeSandbox is a platform wh
 
 1. How to create a CodeSandbox account
 2. How to build a project from our template
+3. Resources
 
 ## 1. How to create a CodeSandbox account
 We can use either a GitHub account or a Google account for CodeSandbox.
@@ -21,3 +22,9 @@ And there we go! Now you can start building an application.
 Should you wish to build together with other people, then share a _live session_ for your sandbox.
 
 ![https://i.imgur.com/s7a8FkZ.png](https://i.imgur.com/s7a8FkZ.png)
+
+## 3. Resources
+These resources will come in handy should you use the boilerplate.
+- Sails.js https://sailsjs.com/documentation/reference
+- Tailwind CSS https://tailwindcss.com/
+- Embedded JavaScript https://ejs.co/
