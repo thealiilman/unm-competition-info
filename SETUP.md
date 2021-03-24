@@ -1,5 +1,7 @@
 # Setup
-We'll be using CodeSandbox to build an application. CodeSandbox is a platform where we can jump right into building an application straightaway by removing the need for us to install programs that are required to run other programs on our machines. Should you prefer to build an application from scratch, feel free to skip this setup.
+This setup assumes you'll be using CodeSandbox to build an application. CodeSandbox is a platform where we can jump right into building an application straightaway by removing the need for us to install programs that are required to run other programs on our machines.
+
+It is **not** mandatory to use CodeSandbox. You can build from scratch or even use alternatives like [CodePen](https://codepen.io/). CodePen is similar to CodeSandbox but CodePen only allows you to build user interfaces, what the user can see. Feel free to skip this setup if you're not using CodeSandbox.
 
 1. How to create a CodeSandbox account
 2. How to build a project from our template
