@@ -15,7 +15,9 @@ Suria Labs is offering the following prizes:
 - 3rd place gets RM50
 
 ## Submission
-To submit your entry, please send an email to Ali (ali.ilman@surialabs.com) or Wahab (abdul.wahab@surialabs.com) while also including Benedict Soon (ecybs1@nottingham.edu.my) and Foo Hui Thung (hgyhf1@nottingham.edu.my) as CC recipients. Afterwards, register for the competition by visiting this form:
+To submit your entry, please send an email to Ali (ali.ilman@surialabs.com) or Wahab (abdul.wahab@surialabs.com) while also including Benedict Soon (ecybs1@nottingham.edu.my) and Foo Hui Thung (hgyhf1@nottingham.edu.my) as CC recipients. The email should consist a link to the website / web application you've built for the competition.
+
+Afterwards, register for the competition by visiting this form:
 
 https://docs.google.com/forms/d/e/1FAIpQLSeI6dVuaoZMwP9g14jx_vcGn0jsCIYC8-BuO2tsPOenS1y4Ig/formResponse
 
