@@ -21,7 +21,7 @@ Afterwards, register for the competition by visiting this form:
 
 https://docs.google.com/forms/d/e/1FAIpQLSeI6dVuaoZMwP9g14jx_vcGn0jsCIYC8-BuO2tsPOenS1y4Ig/formResponse
 
-The deadline for the submission is 12pm on the 29th of March 2021.
+The deadline for the submission is 12pm on the 5th of April 2021.
 
 ## Specifications
 
